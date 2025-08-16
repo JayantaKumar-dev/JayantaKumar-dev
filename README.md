@@ -103,34 +103,17 @@
 ---
 
 
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JayantaKumar-dev&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantaKumar-dev&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantaKumar-dev&theme=tokyonight" />
-</p>
-
-
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantaKumar-dev&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantaKumar-dev&layout=compact&theme=radical&hide_border=false" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayantaKumar-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JayantaKumar-dev&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantaKumar-dev&theme=highcontrast&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantaKumar-dev&theme=highcontrast&hide_border=false" height="180"/>
 </p>
 
 <!-- Optional Trophy Section -->
@@ -139,10 +122,3 @@
 </p>
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mygithubusename&show_icons=true&locale=en&layout=compact" alt="mygithubusename" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mygithubusename&show_icons=true&locale=en" alt="mygithubusename" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mygithubusename&" alt="mygithubusename" /></p>
