@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JayantaKumar-dev&label=Profile%20Views&color=ff69b4&style=for-the-badge)
 
-<h4 align="center">🌐 Social links</h4>
+<h2 align="left">🌐 Social links</h2>
 <br>
 <p align="center">
   <a href="https://www.youtube.com/@JayantCodeCraft" target="_blank">
@@ -103,22 +103,76 @@
 ---
 
 
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantaKumar-dev&layout=compact&theme=radical&hide_border=false" height="150" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); border-radius: 25px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s ease;">
+
+  <!-- GitHub Stats + Top Languages -->
+  <div style="display:flex; justify-content:center; gap:1%; margin-bottom:15px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=JayantaKumar-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=percentile&text_bold=true&line_height=28" 
+      alt="GitHub Stats" 
+      style="border-radius:20px; object-fit:cover;" 
+      onmouseover="this.style.transform='scale(1.05)';" 
+      onmouseout="this.style.transform='scale(1)';"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantaKumar-dev&layout=compact&theme=radical&card_width=350&size_weight=0.5&count_weight=0.5&langs_count=10" 
+      alt="Top Languages" 
+      style="border-radius:20px; object-fit:cover;" 
+      onmouseover="this.style.transform='scale(1.05)';" 
+      onmouseout="this.style.transform='scale(1)';"
+    />
+  </div>
+
+  <!-- Streak-->
+  <div style="display:flex; flex-direction:column; align-items:center; gap:15px; margin-bottom:20px;">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=JayantaKumar-dev&theme=radical&hide_border=false&border_radius=20" 
+      width="80%" 
+      alt="GitHub Streak" 
+      style="border-radius:20px; transition: transform 0.3s ease; max-width:600px; height:auto;" 
+      onmouseover="this.style.transform='scale(1.05)';" 
+      onmouseout="this.style.transform='scale(1)';"
+    />
+    <img 
+      src="https://raw.githubusercontent.com/JayantaKumar-dev/HxCodeWarrior/main/assets/github-contribution-grid-snake.gif" 
+      width="80%" 
+      alt="GitHub Contribution Snake" 
+      style="border-radius:20px; transition: transform 0.3s ease; max-width:600px; height:auto;" 
+      onmouseover="this.style.transform='scale(1.05)';" 
+      onmouseout="this.style.transform='scale(1)';"
+    />
+  </div>
+
+  <!-- Badge -->
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
+    <img src="https://img.shields.io/github/followers/JayantaKumar-dev?style=for-the-badge&logo=github&color=1abc9c&logoColor=white" />
+    <img src="https://img.shields.io/github/stars/JayantaKumar-dev?style=for-the-badge&logo=github&color=f39c12&logoColor=white" />
+    <img src="https://img.shields.io/github/commit-activity/t/JayantaKumar-dev/JayantaKumar-dev?style=for-the-badge&logo=github&color=e74c3c&logoColor=white" />
+  </div>
+
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JayantaKumar-dev&theme=github-dark&area=true&hide_border=false)](https://github.com/JayantaKumar-dev/github-readme-activity-graph)
+
+
+---
+
+### 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayantaKumar-dev&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantaKumar-dev&theme=highcontrast&hide_border=false" height="180"/>
+  <a href="https://buymeacoffee.com/JayantaKumar-dev" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="174" />
+  </a>
 </p>
-
-<!-- Optional Trophy Section -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayantaKumar-dev&theme=onedark&row=1&no-bg=true&no-frame=true" />
-</p>
-
-
