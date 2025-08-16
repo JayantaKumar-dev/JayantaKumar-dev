@@ -13,12 +13,8 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mygithubusename&label=Profile%20views&color=0e75b6&style=flat" alt="mygithubusename" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mygithubusename" alt="mygithubusename" /></a> </p>
-
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayantaKumar-dev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Roomora: microservices-based hotel management platform built with Java & Spring Boot](https://linkhere)
 
