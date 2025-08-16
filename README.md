@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jayant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="center">Full Stack Java Developer | AWS DevOps Trainee | Freelancer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=JayantaKumar-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
   <a href="https://www.youtube.com/@JayantCodeCraft" target="_blank">
     <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to my YouTube channel"/>
   </a>
-  <a href="https://whatsapp.com/channel/YOUR-WHATSAPP-CHANNEL-ID" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb4dHRy42DcXbiyk0C2L" target="_blank">
     <img src="https://img.shields.io/badge/Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join my WhatsApp channel"/>
   </a>
 </p>
