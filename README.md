@@ -8,6 +8,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JayantaKumar-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
+<h4 align="center">🌐 Social links</h4>
+<br>
 <p align="center">
   <a href="https://www.youtube.com/@JayantCodeCraft" target="_blank">
     <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to my YouTube channel"/>
@@ -24,15 +26,11 @@
 
 - 🔭 I’m currently working on [Roomora: microservices-based hotel management platform built with Java & Spring Boot](https://linkhere)
 
-- 🌱 I’m currently learning **AWS, DevOps, Reactjs**
+- 🌱 I’m currently learning **AWS, DevOps, Angular**
 
 - 👨‍💻 All of my projects are available at [www.myportfoliolinkhere](www.myportfoliolinkhere)
 
-- 📝 I regularly write articles on [www.mybloglinkhere](www.mybloglinkhere)
-
 - 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, Docker**
-
-- 📫 How to reach me **myemailhere@gmail.com**
 
 - 📄 Know about my experiences [https://myresumelinkhere](https://myresumelinkhere)
 
