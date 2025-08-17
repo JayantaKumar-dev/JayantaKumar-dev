@@ -136,7 +136,7 @@
       onmouseout="this.style.transform='scale(1)';"
     />
     <img 
-      src="https://raw.githubusercontent.com/JayantaKumar-dev/HxCodeWarrior/main/assets/github-contribution-grid-snake.gif" 
+      src="https://raw.githubusercontent.com/JayantaKumar-dev/JayantaKumar-dev/main/assets/github-contribution-grid-snake.gif" 
       width="80%" 
       alt="GitHub Contribution Snake" 
       style="border-radius:20px; transition: transform 0.3s ease; max-width:600px; height:auto;" 
