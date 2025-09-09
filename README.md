@@ -27,11 +27,11 @@
 ## 🚀 About Me 
 <img align="right" alt="Full Stack Development" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-- 🔭 I’m currently working on [Roomora: microservices-based hotel management platform built with Java & Spring Boot](https://linkhere)
+- 🔭 I’m currently working on [Roomora: microservices-based hotel management platform built with Java & Spring Boot](https://github.com/JayantaKumar-dev/Roomora--Hotel_Booking_Microservices_System)
 
 - 🌱 I’m currently learning **AWS, DevOps, Angular**
 
-- 👨‍💻 All of my projects are available at [www.myportfoliolinkhere](www.myportfoliolinkhere)
+- 👨‍💻 All of my projects are available at [www.myportfoliolinkhere](https://jayant-dev-ochre.vercel.app/)
 
 - 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, Docker**
 
