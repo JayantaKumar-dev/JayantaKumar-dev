@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/@JayantCodeCraft" target="_blank">
     <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to my YouTube channel"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb4dHRy42DcXbiyk0C2L" target="_blank">
+  <a href="https://whatsapp.com/channel/0029VbBRWDCGk1FmyxhWxA10" target="_blank">
     <img src="https://img.shields.io/badge/Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join my WhatsApp channel"/>
   </a>
 </p>
