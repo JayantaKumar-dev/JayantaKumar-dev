@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **AWS, DevOps, Angular**
 
-- 👨‍💻 All of my projects are available at [www.myportfoliolinkhere](https://jayant-dev-ochre.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jayant-dev-ochre.vercel.app/)
 
 - 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, Docker**
 
